@@ -1,3 +1,4 @@
+// echo1 print its commandline arguments
 package main
 
 import (
